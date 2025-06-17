@@ -25,7 +25,7 @@ A simple and responsive task manager web application built using **HTML**, **CSS
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
+- **HTML**
 - **CSS**
 - **JavaScript**
 
